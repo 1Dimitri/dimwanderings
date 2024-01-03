@@ -3,7 +3,7 @@ id: 149
 title: 'DNS Servers on Windows for Unix (and other) guys.'
 date: '2015-05-15T21:05:22+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=149'
 permalink: /2015/05/15/dns-on-windows-for-unix-and-other-guys/
 tc-thumb-fld:

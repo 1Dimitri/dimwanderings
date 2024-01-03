@@ -3,7 +3,7 @@ id: 154
 title: 'Jobs in Powershell'
 date: '2015-05-18T19:55:22+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=154'
 permalink: /2015/05/18/jobs-in-powershell/
 tc-thumb-fld:

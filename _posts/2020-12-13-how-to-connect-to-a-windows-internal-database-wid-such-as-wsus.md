@@ -3,7 +3,7 @@ id: 1039
 title: 'How to connect to a Windows Internal Database WID such as WSUS'
 date: '2020-12-13T11:37:44+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1039'
 permalink: /2020/12/13/how-to-connect-to-a-windows-internal-database-wid-such-as-wsus/
 tc-thumb-fld:

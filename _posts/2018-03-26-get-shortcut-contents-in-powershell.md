@@ -3,7 +3,7 @@ id: 840
 title: 'Get Shortcut contents in Powershell'
 date: '2018-03-26T12:02:35+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=840'
 permalink: /2018/03/26/get-shortcut-contents-in-powershell/
 tc-thumb-fld:

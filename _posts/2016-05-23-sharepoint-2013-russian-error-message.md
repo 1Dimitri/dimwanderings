@@ -3,7 +3,7 @@ id: 436
 title: 'Sharepoint russian error'
 date: '2016-05-23T15:50:05+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=436'
 permalink: /2016/05/23/sharepoint-2013-russian-error-message/
 tc-thumb-fld:

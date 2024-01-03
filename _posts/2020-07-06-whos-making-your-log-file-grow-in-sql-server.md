@@ -3,7 +3,7 @@ id: 1019
 title: 'Who&#8217;s making your log file grow in SQL Server?'
 date: '2020-07-06T15:55:36+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1019'
 permalink: /2020/07/06/whos-making-your-log-file-grow-in-sql-server/
 tc-thumb-fld:

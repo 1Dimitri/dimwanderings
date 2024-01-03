@@ -3,7 +3,7 @@ id: 275
 title: 'Download Free Microsoft Ebooks in Powershell'
 date: '2015-07-15T20:29:22+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=275'
 permalink: /2015/07/15/download-free-microsoft-ebooks-in-powershell/
 tc-thumb-fld:

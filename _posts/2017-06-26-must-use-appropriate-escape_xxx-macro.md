@@ -3,7 +3,7 @@ id: 737
 title: 'you must use the appropriate ESCAPE_xxx macro'
 date: '2017-06-26T14:12:49+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=737'
 permalink: /2017/06/26/must-use-appropriate-escape_xxx-macro/
 tc-thumb-fld:

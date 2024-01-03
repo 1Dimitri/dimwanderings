@@ -3,7 +3,7 @@ id: 921
 title: 'Your SQL Server installation is either corrupt or has been tampered with'
 date: '2019-02-15T15:12:27+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=921'
 permalink: /2019/02/15/your-sql-server-installation-is-either-corrupt-or-has-been-tampered-with/
 tc-thumb-fld:

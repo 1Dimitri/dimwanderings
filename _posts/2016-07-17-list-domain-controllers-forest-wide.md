@@ -3,7 +3,7 @@ id: 458
 title: 'List Domain Controllers Forest-Wide'
 date: '2016-07-17T10:14:03+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=458'
 permalink: /2016/07/17/list-domain-controllers-forest-wide/
 tc-thumb-fld:

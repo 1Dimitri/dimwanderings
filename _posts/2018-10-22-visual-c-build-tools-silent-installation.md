@@ -3,7 +3,7 @@ id: 891
 title: 'Visual C++ Build Tools silent installation'
 date: '2018-10-22T15:26:44+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=891'
 permalink: /2018/10/22/visual-c-build-tools-silent-installation/
 tc-thumb-fld:

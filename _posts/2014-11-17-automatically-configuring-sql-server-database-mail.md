@@ -3,7 +3,7 @@ id: 71
 title: 'Automatically Configuring SQL Server Database mail'
 date: '2014-11-17T22:27:36+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=71'
 permalink: /2014/11/17/automatically-configuring-sql-server-database-mail/
 layout_key:

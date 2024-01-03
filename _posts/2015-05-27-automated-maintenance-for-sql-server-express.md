@@ -3,7 +3,7 @@ id: 202
 title: 'Automated maintenance for SQL Server Express'
 date: '2015-05-27T19:27:01+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=202'
 permalink: /2015/05/27/automated-maintenance-for-sql-server-express/
 tc-thumb-fld:

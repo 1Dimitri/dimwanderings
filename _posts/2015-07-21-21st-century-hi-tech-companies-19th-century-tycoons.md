@@ -3,7 +3,7 @@ id: 299
 title: '21st Century Hi Tech companies, 19th century tycoons'
 date: '2015-07-21T19:47:58+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=299'
 permalink: /2015/07/21/21st-century-hi-tech-companies-19th-century-tycoons/
 tc-thumb-fld:

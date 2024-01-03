@@ -3,7 +3,7 @@ id: 384
 title: 'Windows Server Backup wbadmin&#8217;s use on Domain Controllers'
 date: '2015-10-21T12:43:15+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=384'
 permalink: /2015/10/21/windows-server-backup-wbadmins-use-on-domain-controllers/
 tc-thumb-fld:

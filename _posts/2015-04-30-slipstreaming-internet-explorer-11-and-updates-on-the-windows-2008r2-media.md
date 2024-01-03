@@ -3,7 +3,7 @@ id: 131
 title: 'Slipstreaming Internet Explorer 11 and updates on the Windows 2008R2 media'
 date: '2015-04-30T20:12:55+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=131'
 permalink: /2015/04/30/slipstreaming-internet-explorer-11-and-updates-on-the-windows-2008r2-media/
 tc-thumb-fld:

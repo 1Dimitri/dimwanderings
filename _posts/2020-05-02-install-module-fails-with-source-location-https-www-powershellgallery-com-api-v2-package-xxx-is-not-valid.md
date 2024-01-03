@@ -3,7 +3,7 @@ id: 1004
 title: 'Install-Module fails with Source Location https://www.powershellgallery.com/api/v2/package/xxx is not valid'
 date: '2020-05-02T20:57:38+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1004'
 permalink: /2020/05/02/install-module-fails-with-source-location-https-www-powershellgallery-com-api-v2-package-xxx-is-not-valid/
 tc-thumb-fld:

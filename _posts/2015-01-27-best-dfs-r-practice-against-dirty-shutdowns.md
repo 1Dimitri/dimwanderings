@@ -3,7 +3,7 @@ id: 106
 title: 'Best DFS-R practice against dirty shutdowns'
 date: '2015-01-27T15:12:00+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=106'
 permalink: /2015/01/27/best-dfs-r-practice-against-dirty-shutdowns/
 layout_key:

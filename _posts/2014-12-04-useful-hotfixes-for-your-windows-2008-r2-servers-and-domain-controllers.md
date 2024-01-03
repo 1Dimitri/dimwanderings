@@ -3,7 +3,7 @@ id: 68
 title: 'Useful hotfixes for your Windows 2008 R2 Servers and Domain Controllers'
 date: '2014-12-04T19:47:05+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=68'
 permalink: /2014/12/04/useful-hotfixes-for-your-windows-2008-r2-servers-and-domain-controllers/
 layout_key:

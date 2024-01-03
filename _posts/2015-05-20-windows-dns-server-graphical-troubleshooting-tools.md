@@ -3,7 +3,7 @@ id: 176
 title: 'Windows DNS Server graphical troubleshooting tools'
 date: '2015-05-20T19:45:35+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=176'
 permalink: /2015/05/20/windows-dns-server-graphical-troubleshooting-tools/
 tc-thumb-fld:

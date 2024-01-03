@@ -3,7 +3,7 @@ id: 236
 title: 'Efficient Use of Powershell across Domain Controllers: LastLogon Part 1'
 date: '2015-07-09T21:11:17+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=236'
 permalink: /2015/07/09/efficient-use-of-powershell-across-domain-controllers-lastlogon-part-1/
 tc-thumb-fld:

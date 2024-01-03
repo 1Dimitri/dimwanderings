@@ -3,7 +3,7 @@ id: 1088
 title: 'Get-ADDomainController, Get-ADUser, Get-ADComputer, Get-ADObject: A referral was returned from the server'
 date: '2021-07-12T13:41:02+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1088'
 permalink: /2021/07/12/a-referral-was-returned-from-the-server/
 tc-thumb-fld:

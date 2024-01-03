@@ -3,7 +3,7 @@ id: 319
 title: 'ADFS 3.0 in Windows 2012 R2: Self Signed Certificate'
 date: '2015-07-29T06:42:33+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=319'
 permalink: /2015/07/29/adfs-3-0-in-windows-2012-r2-self-signed-certificate/
 tc-thumb-fld:

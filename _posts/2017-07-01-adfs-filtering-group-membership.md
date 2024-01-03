@@ -3,7 +3,7 @@ id: 732
 title: 'Filtering group membership'
 date: '2017-07-01T15:48:49+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=732'
 permalink: /2017/07/01/adfs-filtering-group-membership/
 tc-thumb-fld:

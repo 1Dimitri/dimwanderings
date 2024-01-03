@@ -3,7 +3,7 @@ id: 915
 title: 'Free Disk space on Windows drive'
 date: '2018-12-20T15:00:52+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=915'
 permalink: /2018/12/20/free-disk-space-on-windows-drive/
 tc-thumb-fld:

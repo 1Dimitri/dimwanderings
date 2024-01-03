@@ -3,7 +3,7 @@ id: 509
 title: 'Creating a custom attribute in AD'
 date: '2016-10-03T15:53:10+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=509'
 permalink: /2016/10/03/creating-a-custom-attribute-ad/
 tc-thumb-fld:

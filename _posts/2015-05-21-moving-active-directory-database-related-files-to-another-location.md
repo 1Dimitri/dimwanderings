@@ -3,7 +3,7 @@ id: 163
 title: 'Moving Active Directory database related files to another location'
 date: '2015-05-21T19:06:09+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=163'
 permalink: /2015/05/21/moving-active-directory-database-related-files-to-another-location/
 tc-thumb-fld:

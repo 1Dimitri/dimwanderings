@@ -3,7 +3,7 @@ id: 896
 title: 'Architecture for the cloud vs. on-premises'
 date: '2018-10-26T13:57:38+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=896'
 permalink: /2018/10/26/architecture-for-the-cloud-vs-on-premises/
 tc-thumb-fld:

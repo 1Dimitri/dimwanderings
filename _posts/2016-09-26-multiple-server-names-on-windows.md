@@ -3,7 +3,7 @@ id: 503
 title: 'Multiple Server Names on Windows'
 date: '2016-09-26T15:50:33+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=503'
 permalink: /2016/09/26/multiple-server-names-on-windows/
 tc-thumb-fld:

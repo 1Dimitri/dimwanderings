@@ -3,7 +3,7 @@ id: 331
 title: 'WebDeploy 403 and 404 Error Messages'
 date: '2015-08-09T22:54:43+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=331'
 permalink: /2015/08/09/webdeploy-403-and-404-error-messages/
 tc-thumb-fld:

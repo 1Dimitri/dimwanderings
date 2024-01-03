@@ -3,7 +3,7 @@ id: 226
 title: 'Restoring user documents in Sharepoint 2010 / 2013'
 date: '2015-06-26T20:26:17+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=226'
 permalink: /2015/06/26/restoring-user-documents-in-sharepoint-20102013/
 tc-thumb-fld:

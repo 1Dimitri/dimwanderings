@@ -3,7 +3,7 @@ id: 723
 title: 'Python 3.6 and Visual Studio 2017'
 date: '2017-05-20T17:22:04+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=723'
 permalink: /2017/05/20/python-3-6-visual-studio-2017/
 tc-thumb-fld:

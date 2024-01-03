@@ -3,7 +3,7 @@ id: 521
 title: 'Creating a WMI Class from registry entries'
 date: '2016-10-28T17:11:03+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=521'
 permalink: /2016/10/28/creating-wmi-class-registry/
 tc-thumb-fld:

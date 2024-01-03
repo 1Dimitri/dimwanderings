@@ -3,7 +3,7 @@ id: 764
 title: 'Changing the System Regional settings after installation using the command-line'
 date: '2017-08-21T14:20:47+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=764'
 permalink: /2017/08/21/changing-system-regional-settings-command-line/
 tc-thumb-fld:

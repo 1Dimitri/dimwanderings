@@ -3,7 +3,7 @@ id: 311
 title: 'Building Ivory Towers: Parallels in IT and Architecture'
 date: '2015-07-23T20:51:00+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=311'
 permalink: /2015/07/23/building-ivory-towers-parallels-in-it-and-architecture/
 tc-thumb-fld:

@@ -3,7 +3,7 @@ id: 218
 title: 'Risk management, compliance, governance easily defined'
 date: '2015-06-21T10:49:00+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=218'
 permalink: /2015/06/21/risk-management-compliance-governance-easily-defined/
 tc-thumb-fld:

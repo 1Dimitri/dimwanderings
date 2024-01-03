@@ -3,7 +3,7 @@ id: 519
 title: 'Backup of a Windows CA Configuration'
 date: '2016-10-08T14:47:38+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=519'
 permalink: /2016/10/08/backup-of-a-windows-ca-configuration/
 tc-thumb-fld:

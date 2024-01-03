@@ -3,7 +3,7 @@ id: 533
 title: 'Prefer IPv4 over IPv6 on Windows'
 date: '2016-11-15T14:07:30+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=533'
 permalink: /2016/11/15/prefer-ipv4-ipv6-windows/
 tc-thumb-fld:

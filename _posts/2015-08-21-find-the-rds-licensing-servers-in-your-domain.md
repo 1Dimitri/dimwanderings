@@ -3,7 +3,7 @@ id: 356
 title: 'Find the RDS Licensing servers in your domain'
 date: '2015-08-21T20:44:58+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=356'
 permalink: /2015/08/21/find-the-rds-licensing-servers-in-your-domain/
 tc-thumb-fld:

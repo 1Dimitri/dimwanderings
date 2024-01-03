@@ -3,7 +3,7 @@ id: 539
 title: 'DHCP Server Wizard Error'
 date: '2016-11-21T17:08:49+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=539'
 permalink: /2016/11/21/dhcp-server-wizard-error/
 tc-thumb-fld:

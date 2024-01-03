@@ -3,7 +3,7 @@ id: 952
 title: 'Trial period reset of Visual Studio Community Edition'
 date: '2019-07-13T18:26:07+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=952'
 permalink: /2019/07/13/trial-period-reset-of-visual-studio-community-edition/
 tc-thumb-fld:

@@ -3,7 +3,7 @@ id: 782
 title: 'Windows 2016 Remote Desktop cannot verify the identity'
 date: '2017-10-24T09:21:19+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=782'
 permalink: /2017/10/24/windows-2016-remote-desktop-cannot-verify-identity/
 tc-thumb-fld:

@@ -3,7 +3,7 @@ id: 36
 title: 'Adopting a Cloud Platform: non-technical choices in an big environment'
 date: '2014-09-19T10:02:03+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=36'
 permalink: /2014/09/19/adopting-a-cloud-platform-non-technical-choices-in-an-big-environment/
 layout_key:

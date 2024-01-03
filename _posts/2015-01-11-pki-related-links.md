@@ -3,7 +3,7 @@ id: 93
 title: 'PKI related links'
 date: '2015-01-11T13:46:44+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=93'
 permalink: /2015/01/11/pki-related-links/
 layout_key:

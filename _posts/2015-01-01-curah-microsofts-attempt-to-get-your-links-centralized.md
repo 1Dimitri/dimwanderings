@@ -3,7 +3,7 @@ id: 84
 title: 'Curah: Microsoft&#8217;s attempt to get your links centralized'
 date: '2015-01-01T19:58:13+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=84'
 permalink: /2015/01/01/curah-microsofts-attempt-to-get-your-links-centralized/
 layout_key:

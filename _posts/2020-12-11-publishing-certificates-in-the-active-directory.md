@@ -3,7 +3,7 @@ id: 1032
 title: 'Publishing certificates in the Active Directory'
 date: '2020-12-11T15:13:49+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1032'
 permalink: /2020/12/11/publishing-certificates-in-the-active-directory/
 tc-thumb-fld:

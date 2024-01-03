@@ -3,7 +3,7 @@ id: 777
 title: 'WSUSOffline Office 64-bit support'
 date: '2017-10-23T12:21:36+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=777'
 permalink: /2017/10/23/wsusoffline-office-64-bit-support/
 tc-thumb-fld:

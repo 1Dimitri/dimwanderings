@@ -3,7 +3,7 @@ id: 1125
 title: 'Invoke-WebRequest under the System Account'
 date: '2022-03-01T14:54:31+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1125'
 permalink: /2022/03/01/invoke-webrequest-under-the-system-account/
 tc-thumb-fld:

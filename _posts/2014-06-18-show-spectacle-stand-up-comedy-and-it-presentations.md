@@ -3,7 +3,7 @@ id: 6
 title: 'Show, Spectacle, stand-up comedy and IT presentations'
 date: '2014-06-18T11:46:00+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=6'
 permalink: /2014/06/18/show-spectacle-stand-up-comedy-and-it-presentations/
 layout_key:

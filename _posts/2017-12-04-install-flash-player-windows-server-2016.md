@@ -3,7 +3,7 @@ id: 797
 title: 'Install Flash Player on Windows Server 2016'
 date: '2017-12-04T10:40:47+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=797'
 permalink: /2017/12/04/install-flash-player-windows-server-2016/
 tc-thumb-fld:

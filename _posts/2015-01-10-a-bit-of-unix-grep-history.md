@@ -3,7 +3,7 @@ id: 88
 title: 'A bit of Unix Grep history'
 date: '2015-01-10T20:09:15+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=88'
 permalink: /2015/01/10/a-bit-of-unix-grep-history/
 layout_key:

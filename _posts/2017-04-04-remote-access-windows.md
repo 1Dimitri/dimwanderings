@@ -3,7 +3,7 @@ id: 662
 title: 'Remote Access to Windows'
 date: '2017-04-04T14:41:16+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=662'
 permalink: /2017/04/04/remote-access-windows/
 tc-thumb-fld:

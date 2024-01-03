@@ -3,7 +3,7 @@ id: 634
 title: 'IIS default role services on Windows 2012 R2'
 date: '2017-03-28T15:12:51+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=634'
 permalink: /2017/03/28/iis-default-role-services/
 tc-thumb-fld:

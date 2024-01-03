@@ -3,7 +3,7 @@ id: 17
 title: 'Wrapping an existing command Send-MailMessage using splatting'
 date: '2014-07-19T19:32:19+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=17'
 permalink: /2014/07/19/wrapping-an-existing-command-send-mailmessage-using-splatting/
 layout_key:

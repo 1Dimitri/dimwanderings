@@ -3,7 +3,7 @@ id: 55
 title: 'Slipstreaming SQL Server 2008 / 2008 R2 service packs'
 date: '2014-10-12T22:27:25+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=55'
 permalink: /2014/10/12/slipstreaming-sql-server-2008-2008-r2-service-packs/
 layout_key:

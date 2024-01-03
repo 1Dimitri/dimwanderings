@@ -3,7 +3,7 @@ id: 97
 title: 'ASCII Table in Powershell (or how get around keyboard layout mapping issues)'
 date: '2015-01-19T20:47:18+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=97'
 permalink: /2015/01/19/ascii-table-in-powershell-or-how-get-around-keyboard-layout-mappings-issue/
 layout_key:

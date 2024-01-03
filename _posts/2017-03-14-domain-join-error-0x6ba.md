@@ -3,7 +3,7 @@ id: 623
 title: 'Domain Join Error 0x6ba'
 date: '2017-03-14T15:39:50+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=623'
 permalink: /2017/03/14/domain-join-error-0x6ba/
 tc-thumb-fld:

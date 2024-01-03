@@ -3,7 +3,7 @@ id: 118
 title: 'Enabling ETW tracing for NTLM issues'
 date: '2015-03-10T08:17:38+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=118'
 permalink: /2015/03/10/enabling-etw-tracing-for-ntlm-issues/
 tc-thumb-fld:

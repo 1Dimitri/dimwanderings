@@ -3,7 +3,7 @@ id: 450
 title: 'UniCERT PKI: limited auto-enrollment support'
 date: '2016-07-07T21:21:56+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=450'
 permalink: /2016/07/07/unicert-pki-limited-autoenrollment-support/
 tc-thumb-fld:

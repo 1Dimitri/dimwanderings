@@ -3,7 +3,7 @@ id: 1056
 title: 'WMI filters to target sites and non Domain Controllers'
 date: '2020-12-23T15:25:58+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1056'
 permalink: /2020/12/23/wmi-filters-to-target-sites-and-non-domain-controllers/
 tc-thumb-fld:

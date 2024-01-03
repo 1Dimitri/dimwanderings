@@ -3,7 +3,7 @@ id: 666
 title: 'KMS migration with OS, Office hosting'
 date: '2017-04-05T16:17:56+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=666'
 permalink: /2017/04/05/kms-migration/
 tc-thumb-fld:

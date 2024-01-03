@@ -3,7 +3,7 @@ id: 374
 title: 'Slow SQL on Windows 2008R2 based Servers'
 date: '2015-10-14T19:40:06+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=374'
 permalink: /2015/10/14/slow-sql-on-windows-2008r2-based-servers/
 tc-thumb-fld:

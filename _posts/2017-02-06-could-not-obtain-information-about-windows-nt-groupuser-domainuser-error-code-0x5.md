@@ -3,7 +3,7 @@ id: 586
 title: 'Could not obtain information about Windows NT group/user &#8216;domain\user&#8217;, error code 0x5'
 date: '2017-02-06T16:48:59+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=586'
 permalink: /2017/02/06/could-not-obtain-information-about-windows-nt-groupuser-domainuser-error-code-0x5/
 tc-thumb-fld:

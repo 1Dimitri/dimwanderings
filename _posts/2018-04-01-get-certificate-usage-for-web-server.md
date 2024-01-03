@@ -3,7 +3,7 @@ id: 847
 title: 'Get-Certificate usage for Web Server'
 date: '2018-04-01T10:13:51+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=847'
 permalink: /2018/04/01/get-certificate-usage-for-web-server/
 tc-thumb-fld:

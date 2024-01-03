@@ -3,7 +3,7 @@ id: 445
 title: 'Error 1753: no more endpoints in AD Replication'
 date: '2016-07-06T21:30:42+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=445'
 permalink: /2016/07/06/error-1753-active-directory-replication/
 tc-thumb-fld:

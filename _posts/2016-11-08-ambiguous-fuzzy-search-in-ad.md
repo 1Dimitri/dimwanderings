@@ -3,7 +3,7 @@ id: 517
 title: 'Ambiguous Fuzzy search in AD'
 date: '2016-11-08T17:46:47+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=517'
 permalink: /2016/11/08/ambiguous-fuzzy-search-in-ad/
 tc-thumb-fld:

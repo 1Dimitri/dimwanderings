@@ -3,7 +3,7 @@ id: 111
 title: 'Special Folders in Powershell'
 date: '2015-02-08T15:20:26+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=111'
 permalink: /2015/02/08/special-folders-in-powershell/
 layout_key:

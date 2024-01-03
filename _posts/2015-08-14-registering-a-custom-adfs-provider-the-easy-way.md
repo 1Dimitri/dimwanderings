@@ -3,7 +3,7 @@ id: 346
 title: 'Registering a custom ADFS MFA provider the easy way'
 date: '2015-08-14T19:29:21+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=346'
 permalink: /2015/08/14/registering-a-custom-adfs-provider-the-easy-way/
 tc-thumb-fld:

@@ -3,7 +3,7 @@ id: 221
 title: 'Recycling more&#8230; SQL Server (Agent) Logs'
 date: '2015-06-23T15:21:47+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=221'
 permalink: /2015/06/23/recycling-more-sql-server-agent-logs/
 tc-thumb-fld:

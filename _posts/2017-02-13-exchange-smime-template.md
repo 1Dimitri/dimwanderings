@@ -3,7 +3,7 @@ id: 598
 title: 'Exchange S/MIME Template'
 date: '2017-02-13T13:56:34+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=598'
 permalink: /2017/02/13/exchange-smime-template/
 tc-thumb-fld:

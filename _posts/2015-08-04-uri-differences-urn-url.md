@@ -3,7 +3,7 @@ id: 329
 title: 'URI differences: URN, URL&#8230;'
 date: '2015-08-04T19:31:12+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=329'
 permalink: /2015/08/04/uri-differences-urn-url/
 tc-thumb-fld:

@@ -3,7 +3,7 @@ id: 342
 title: 'Registering a DLL assembly in the GAC using Powershell'
 date: '2015-08-14T12:30:27+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=342'
 permalink: /2015/08/14/registering-a-dll-assembly-in-the-gac-using-powershell/
 tc-thumb-fld:

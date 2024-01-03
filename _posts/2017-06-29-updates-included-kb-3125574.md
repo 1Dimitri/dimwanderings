@@ -3,7 +3,7 @@ id: 740
 title: 'Updates included in KB 3125574'
 date: '2017-06-29T16:00:09+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=740'
 permalink: /2017/06/29/updates-included-kb-3125574/
 tc-thumb-fld:

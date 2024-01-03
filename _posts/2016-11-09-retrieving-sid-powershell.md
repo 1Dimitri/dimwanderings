@@ -3,7 +3,7 @@ id: 529
 title: 'Retrieving SID in Powershell'
 date: '2016-11-09T09:29:44+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=529'
 permalink: /2016/11/09/retrieving-sid-powershell/
 tc-thumb-fld:

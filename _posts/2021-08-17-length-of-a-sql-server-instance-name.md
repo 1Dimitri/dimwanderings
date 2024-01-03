@@ -4,7 +4,7 @@ title: 'Length of a SQL Server instance name'
 date: '2021-08-17T15:16:32+01:00'
 author: Dimitri
 excerpt: 'What is the length of a SQL Server instance name, the invalid characters, and also for a Windows machine machine'
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1101'
 permalink: /2021/08/17/length-of-a-sql-server-instance-name/
 tc-thumb-fld:

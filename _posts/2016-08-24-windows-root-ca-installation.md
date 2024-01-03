@@ -3,7 +3,7 @@ id: 494
 title: 'Windows Root CA Installation'
 date: '2016-08-24T19:40:25+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=494'
 permalink: /2016/08/24/windows-root-ca-installation/
 tc-thumb-fld:

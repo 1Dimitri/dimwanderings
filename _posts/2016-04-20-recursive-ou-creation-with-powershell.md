@@ -3,7 +3,7 @@ id: 431
 title: 'Recursive OU creation with Powershell'
 date: '2016-04-20T10:31:41+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=431'
 permalink: /2016/04/20/recursive-ou-creation-with-powershell/
 tc-thumb-fld:

@@ -3,7 +3,7 @@ id: 705
 title: 'WSUS configuration on Windows Server 2016'
 date: '2017-04-09T16:19:26+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=705'
 permalink: /2017/04/09/wsus-configuration-windows-server-2016/
 layout_key:

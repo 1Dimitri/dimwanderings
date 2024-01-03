@@ -3,7 +3,7 @@ id: 561
 title: 'Regional Independent date time batch job'
 date: '2016-12-20T16:33:41+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=561'
 permalink: /2016/12/20/regional-independent-date-time-batch-job/
 tc-thumb-fld:

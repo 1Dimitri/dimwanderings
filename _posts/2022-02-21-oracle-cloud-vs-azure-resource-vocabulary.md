@@ -3,7 +3,7 @@ id: 1122
 title: 'Oracle Cloud vs. Azure resource Vocabulary'
 date: '2022-02-21T22:48:53+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1122'
 permalink: /2022/02/21/oracle-cloud-vs-azure-resource-vocabulary/
 tc-thumb-fld:

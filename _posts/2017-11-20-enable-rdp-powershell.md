@@ -3,7 +3,7 @@ id: 793
 title: 'Enable RDP with Powershell'
 date: '2017-11-20T17:13:42+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=793'
 permalink: /2017/11/20/enable-rdp-powershell/
 tc-thumb-fld:

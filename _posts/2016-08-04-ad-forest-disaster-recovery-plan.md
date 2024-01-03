@@ -3,7 +3,7 @@ id: 478
 title: 'AD Forest Disaster Recovery plan'
 date: '2016-08-04T12:19:31+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=478'
 permalink: /2016/08/04/ad-forest-disaster-recovery-plan/
 tc-thumb-fld:

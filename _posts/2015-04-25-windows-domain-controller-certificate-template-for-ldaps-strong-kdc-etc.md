@@ -3,7 +3,7 @@ id: 126
 title: 'Windows Domain Controller Certificate template for LDAPS, Strong KDC, etc.'
 date: '2015-04-25T15:32:44+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=126'
 permalink: /2015/04/25/windows-domain-controller-certificate-template-for-ldaps-strong-kdc-etc/
 tc-thumb-fld:

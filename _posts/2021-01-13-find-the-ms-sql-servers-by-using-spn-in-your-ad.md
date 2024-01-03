@@ -3,7 +3,7 @@ id: 1061
 title: 'Find the MS SQL Servers by using SPN in your AD'
 date: '2021-01-13T12:12:53+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1061'
 permalink: /2021/01/13/find-the-ms-sql-servers-by-using-spn-in-your-ad/
 tc-thumb-fld:

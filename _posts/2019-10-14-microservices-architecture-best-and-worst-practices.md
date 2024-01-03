@@ -3,7 +3,7 @@ id: 981
 title: 'Microservices architecture best and worst practices'
 date: '2019-10-14T12:29:32+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=981'
 permalink: /2019/10/14/microservices-architecture-best-and-worst-practices/
 tc-thumb-fld:

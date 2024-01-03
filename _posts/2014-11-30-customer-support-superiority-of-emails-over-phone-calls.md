@@ -3,7 +3,7 @@ id: 61
 title: 'Customer Support: Superiority of emails over phone calls'
 date: '2014-11-30T18:10:56+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=61'
 permalink: /2014/11/30/customer-support-superiority-of-emails-over-phone-calls/
 layout_key:

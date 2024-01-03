@@ -3,7 +3,7 @@ id: 28
 title: 'Quick template text file implementation in Powershell'
 date: '2014-07-20T22:17:46+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=28'
 permalink: /2014/07/20/quick-template-text-file-implementation-in-powershell/
 tc-thumb-fld:

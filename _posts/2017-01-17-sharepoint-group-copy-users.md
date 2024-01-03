@@ -3,7 +3,7 @@ id: 575
 title: 'Sharepoint group copy users'
 date: '2017-01-17T13:51:36+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=575'
 permalink: /2017/01/17/sharepoint-group-copy-users/
 tc-thumb-fld:

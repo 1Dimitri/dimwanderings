@@ -3,7 +3,7 @@ id: 52
 title: 'Getting all domain controllers in a forest'
 date: '2014-11-21T10:53:53+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=52'
 permalink: /2014/11/21/getting-all-domain-controllers-in-a-forest/
 layout_key:

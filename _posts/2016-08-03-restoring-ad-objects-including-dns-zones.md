@@ -3,7 +3,7 @@ id: 470
 title: 'Restoring AD objects including DNS zones'
 date: '2016-08-03T15:07:47+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=470'
 permalink: /2016/08/03/restoring-ad-objects-including-dns-zones/
 tc-thumb-fld:

@@ -3,7 +3,7 @@ id: 987
 title: 'Firefox displays SSL Error: SEC_ERROR_INADEQUATE_KEY_USAGE when using self-signed certificate'
 date: '2019-11-25T16:14:43+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=987'
 permalink: /2019/11/25/firefox-displays-ssl-error-sec_error_inadequate_key_usage-when-using-self-signed-certificate/
 tc-thumb-fld:

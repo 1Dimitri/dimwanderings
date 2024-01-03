@@ -3,7 +3,7 @@ id: 398
 title: 'Skype for Business installation in a multi-domain forest'
 date: '2016-01-19T20:05:28+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=398'
 permalink: /2016/01/19/installing-skype-for-business-in-a-multi-domain-forest/
 tc-thumb-fld:

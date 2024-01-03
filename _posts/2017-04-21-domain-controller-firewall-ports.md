@@ -3,7 +3,7 @@ id: 715
 title: 'domain controller firewall ports'
 date: '2017-04-21T14:43:37+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=715'
 permalink: /2017/04/21/domain-controller-firewall-ports/
 tc-thumb-fld:

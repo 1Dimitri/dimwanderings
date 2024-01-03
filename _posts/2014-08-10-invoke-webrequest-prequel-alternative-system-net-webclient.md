@@ -3,7 +3,7 @@ id: 26
 title: 'Invoke-WebRequest prequel alternative: System.Net.WebClient'
 date: '2014-08-10T10:46:59+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=26'
 permalink: /2014/08/10/invoke-webrequest-prequel-alternative-system-net-webclient/
 layout_key:

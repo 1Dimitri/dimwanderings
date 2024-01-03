@@ -3,7 +3,7 @@ id: 1117
 title: 'Slipstreaming SQL Server 2019'
 date: '2022-02-07T10:26:09+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1117'
 permalink: /2022/02/07/slipstreaming-sql-server-2019/
 tc-thumb-fld:

@@ -3,7 +3,7 @@ id: 991
 title: 'Installing the WebDav client on Windows Server 2016'
 date: '2019-12-20T13:30:40+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=991'
 permalink: /2019/12/20/installing-the-webdav-client-on-windows-server-2016/
 tc-thumb-fld:

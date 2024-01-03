@@ -3,7 +3,7 @@ id: 104
 title: 'Quickly apply a XSLT Transform to a XML file'
 date: '2015-01-21T19:32:24+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=104'
 permalink: /2015/01/21/quickly-apply-a-xslt-transform-to-a-xml-file/
 layout_key:

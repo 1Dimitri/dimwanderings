@@ -3,7 +3,7 @@ id: 122
 title: 'Change Instance Collation on a SQL Server 2008 or higher'
 date: '2015-04-01T16:09:59+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=122'
 permalink: /2015/04/01/change-instance-collation-on-a-sql-server-2008/
 tc-thumb-fld:

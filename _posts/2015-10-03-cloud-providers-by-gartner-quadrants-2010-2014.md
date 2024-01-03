@@ -3,7 +3,7 @@ id: 369
 title: 'Cloud Providers by Gartner Quadrants 2010 &#8211; 2014'
 date: '2015-10-03T22:38:44+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=369'
 permalink: /2015/10/03/cloud-providers-by-gartner-quadrants-2010-2014/
 tc-thumb-fld:

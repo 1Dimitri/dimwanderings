@@ -3,7 +3,7 @@ id: 339
 title: 'Simple netcat-like TCP Server or client'
 date: '2015-08-10T13:08:26+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=339'
 permalink: /2015/08/10/simple-netcat-like-tcp-server-or-client/
 tc-thumb-fld:

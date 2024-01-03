@@ -3,7 +3,7 @@ id: 363
 title: 'ADFS 3.0 Firewall Ports in root-child domains'
 date: '2015-08-26T22:14:03+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=363'
 permalink: /2015/08/26/adfs-3-0-firewall-ports-in-root-child-domains/
 tc-thumb-fld:

@@ -3,7 +3,7 @@ id: 454
 title: 'Is your database part of an Availability group?'
 date: '2016-07-08T20:20:32+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=454'
 permalink: /2016/07/08/database-part-availability-group/
 tc-thumb-fld:

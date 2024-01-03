@@ -3,7 +3,7 @@ id: 325
 title: 'Information storage: the economist&#8217;s classification'
 date: '2015-08-03T06:53:40+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=325'
 permalink: /2015/08/03/information-storage-the-economists-classification/
 tc-thumb-fld:

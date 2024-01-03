@@ -3,7 +3,7 @@ id: 941
 title: '‘MEDIALAYOUT’ in SQL Server ConfigurationFile.Ini'
 date: '2019-04-04T16:21:47+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=941'
 permalink: /2019/04/04/medialayout-in-sql-server-configurationfile-ini/
 tc-thumb-fld:

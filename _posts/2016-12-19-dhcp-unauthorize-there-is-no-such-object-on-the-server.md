@@ -3,7 +3,7 @@ id: 549
 title: 'DHCP Unauthorize: There is no such object on the server'
 date: '2016-12-19T16:40:37+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=549'
 permalink: /2016/12/19/dhcp-unauthorize-there-is-no-such-object-on-the-server/
 tc-thumb-fld:

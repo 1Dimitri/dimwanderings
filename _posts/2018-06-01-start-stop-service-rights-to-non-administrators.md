@@ -3,7 +3,7 @@ id: 876
 title: 'Start Stop service rights to non administrators'
 date: '2018-06-01T14:44:06+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=876'
 permalink: /2018/06/01/start-stop-service-rights-to-non-administrators/
 layout_key:

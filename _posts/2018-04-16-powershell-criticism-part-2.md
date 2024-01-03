@@ -3,7 +3,7 @@ id: 864
 title: 'Powershell criticism: Part 2'
 date: '2018-04-16T13:29:24+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=864'
 permalink: /2018/04/16/powershell-criticism-part-2/
 tc-thumb-fld:

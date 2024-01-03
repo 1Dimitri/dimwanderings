@@ -3,7 +3,7 @@ id: 315
 title: 'Powershell Function Header'
 date: '2015-07-28T21:18:57+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=315'
 permalink: /2015/07/28/powershell-function-header/
 tc-thumb-fld:

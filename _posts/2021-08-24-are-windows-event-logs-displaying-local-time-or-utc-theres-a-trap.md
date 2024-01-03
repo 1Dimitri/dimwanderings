@@ -4,7 +4,7 @@ title: 'Are Windows Event Logs displaying local time or UTC? There&#8217;s a tra
 date: '2021-08-24T14:25:25+01:00'
 author: Dimitri
 excerpt: 'Is Local time or UTC used in Windows Event Log. Both, it depends where'
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=1106'
 permalink: /2021/08/24/are-windows-event-logs-displaying-local-time-or-utc-theres-a-trap/
 tc-thumb-fld:

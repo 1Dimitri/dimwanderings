@@ -3,7 +3,7 @@ id: 702
 title: 'WSUS installation on Windows Server 2016'
 date: '2017-04-09T16:15:10+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=702'
 permalink: /2017/04/09/wsus-installation-windows-server-2016/
 tc-thumb-fld:

@@ -3,7 +3,7 @@ id: 565
 title: 'IPAM Server needs SQL Server Enterprise Edition'
 date: '2016-12-21T13:18:19+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=565'
 permalink: /2016/12/21/ipam-server-needs-sql-server-enterprise-edition/
 tc-thumb-fld:

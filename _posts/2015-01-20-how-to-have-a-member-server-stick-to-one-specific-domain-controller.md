@@ -3,7 +3,7 @@ id: 100
 title: 'How to have a member server stick to one specific domain controller?'
 date: '2015-01-20T20:17:46+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=100'
 permalink: /2015/01/20/how-to-have-a-member-server-stick-to-one-specific-domain-controller/
 layout_key:

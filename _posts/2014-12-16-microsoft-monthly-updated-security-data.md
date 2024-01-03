@@ -3,7 +3,7 @@ id: 76
 title: 'Microsoft monthly updated (security)  data'
 date: '2014-12-16T22:34:29+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=76'
 permalink: /2014/12/16/microsoft-monthly-updated-security-data/
 layout_key:

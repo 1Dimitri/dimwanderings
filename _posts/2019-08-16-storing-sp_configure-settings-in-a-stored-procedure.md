@@ -3,7 +3,7 @@ id: 956
 title: 'Storing sp_configure settings in a stored procedure'
 date: '2019-08-16T10:58:57+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=956'
 permalink: /2019/08/16/storing-sp_configure-settings-in-a-stored-procedure/
 tc-thumb-fld:

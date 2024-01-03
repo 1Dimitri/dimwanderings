@@ -3,7 +3,7 @@ id: 413
 title: 'Event Log Rights for Non-Administrators'
 date: '2016-01-21T15:12:41+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=413'
 permalink: /2016/01/21/event-log-rights-for-non-administrators/
 tc-thumb-fld:

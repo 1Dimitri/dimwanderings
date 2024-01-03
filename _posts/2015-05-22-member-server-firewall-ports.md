@@ -3,7 +3,7 @@ id: 182
 title: 'member server firewall ports'
 date: '2015-05-22T19:59:41+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=182'
 permalink: /2015/05/22/member-server-firewall-ports/
 tc-thumb-fld:

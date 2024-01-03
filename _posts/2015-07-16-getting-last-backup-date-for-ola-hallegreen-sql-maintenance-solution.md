@@ -3,7 +3,7 @@ id: 285
 title: 'Getting last backup date for Ola Hallegren SQL Maintenance Solution'
 date: '2015-07-16T19:59:45+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=285'
 permalink: /2015/07/16/getting-last-backup-date-for-ola-hallegreen-sql-maintenance-solution/
 tc-thumb-fld:

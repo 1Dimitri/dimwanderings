@@ -3,7 +3,7 @@ id: 209
 title: 'Search for text in a SQL Server database'
 date: '2015-06-10T15:26:59+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=209'
 permalink: /2015/06/10/search-for-text-in-a-sql-server-database/
 tc-thumb-fld:

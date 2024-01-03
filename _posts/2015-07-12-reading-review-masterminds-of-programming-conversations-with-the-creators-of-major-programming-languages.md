@@ -3,7 +3,7 @@ id: 256
 title: 'Reading Review: Masterminds of Programming: Conversations with the Creators of Major Programming Languages'
 date: '2015-07-12T14:24:52+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=256'
 permalink: /2015/07/12/reading-review-masterminds-of-programming-conversations-with-the-creators-of-major-programming-languages/
 tc-thumb-fld:

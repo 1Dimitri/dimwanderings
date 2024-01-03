@@ -3,7 +3,7 @@ id: 49
 title: 'Quickly moving FSMO around Domain Controllers with Powershell AD Cmdlets'
 date: '2014-11-25T17:39:50+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'http://dimitri.janczak.net/?p=49'
 permalink: /2014/11/25/quickly-moving-fsmo-around-domain-controllers-with-powershell-ad-cmdlets/
 layout_key:

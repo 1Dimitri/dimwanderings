@@ -3,7 +3,7 @@ id: 997
 title: 'Windows updates history list'
 date: '2020-02-20T16:44:44+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=997'
 permalink: /2020/02/20/windows-updates-history-list/
 tc-thumb-fld:

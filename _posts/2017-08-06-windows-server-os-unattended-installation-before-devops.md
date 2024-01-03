@@ -3,7 +3,7 @@ id: 752
 title: 'Windows Server OS unattended installation before DevOps'
 date: '2017-08-06T08:00:07+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=752'
 permalink: /2017/08/06/windows-server-os-unattended-installation-before-devops/
 tc-thumb-fld:

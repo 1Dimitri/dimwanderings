@@ -3,7 +3,7 @@ id: 567
 title: 'FSMO role reference'
 date: '2016-12-22T17:15:26+01:00'
 author: Dimitri
-layout: post
+layout: article
 guid: 'https://dimitri.janczak.net/?p=567'
 permalink: /2016/12/22/fsmo-role-reference/
 tc-thumb-fld:
