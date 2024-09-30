@@ -25,7 +25,7 @@ The newest version of Powershell, 4.0, includes the [Invoke-WebRequest](http://t
 If you do not work for Microsoft and because of the systems you are facing to, need to be compatible with previous versions, the following one-liner can easily replace it for simple-regular downloads (GET requests)
 
 ```
-<pre class="lang:ps decode:true " title="System.net.WebClient usage">(New-Object System.Net.WebClient).DownloadString("http://your-url")
+(New-Object System.Net.WebClient).DownloadString("http://your-url")
 ```
 
 The contents will be retrieved in a string. If you need to handle a binary file, the DownloadData method is then your friend.
