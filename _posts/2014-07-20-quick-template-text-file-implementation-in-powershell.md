@@ -38,7 +38,7 @@ Since we are talking about expressions, let’s use Invoke-Expression. The only 
 Here (!) come the Here-Strings by noticing that the following code will build a valid here-string from any variable
 
 ```
-<pre class="lang:ps decode:true " title="Here-String from any variable">"@`"`r`n$variable`r`n`"@"
+"@`"`r`n$variable`r`n`"@"
 ```
 
 If you have trouble reading that expression, remember that
