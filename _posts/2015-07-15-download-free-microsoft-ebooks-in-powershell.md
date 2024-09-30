@@ -54,7 +54,7 @@ Indeed if we look back at trace, the location is only present during the various
 Sadly, we don’t know that number, just that we want them all but the last one. Therefore we’ll have to do it manually by checking each response to see if it is still a redirection or not
 
 ```
-<pre class="lang:ps decode:true " title="Manually following redirections with Invoke-WebRequest">$link = "http://server/link"
+$link = "http://server/link"
 do {
 $request = Invoke-WebRequest -Uri $link -Max 0 -EA SilentlyContinue
 if ($request.headers.location) { $link=$request.headers.location }

@@ -38,7 +38,7 @@ will end-up with a compile error, such as the following:
 [![](https://dimitri.janczak.net/wp-content/uploads/2017/05/SCrapy-Twisted-Build-Error.png)](https://dimitri.janczak.net/wp-content/uploads/2017/05/SCrapy-Twisted-Build-Error.png)
 
 ```
-<pre class="lang:batch decode:true" title="Error message building twisted">"   building 'twisted.test.raiser' extension
+"   building 'twisted.test.raiser' extension
     error: Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build Tools": http://landinghub.visualstudio.com/visual-cpp-build-tools
     ----------------------------------------
 Command ""c:\program files\python36\python.exe" -u -c "import setuptools, tokenize;__file__='C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\pip-build-68oh6ofn\\Twisted\\setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" install --record

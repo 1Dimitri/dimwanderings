@@ -28,5 +28,5 @@ Using something like Get-ADDomainController -Forest would be something too easy 
 Never mind, here is a nice snippet to retrieve that you may want to adapt to the fields you need to retrieve
 
 ```
-<pre class="lang:default decode:true " title="Retrieve all domain controllers from a forest">(Get-ADForest).Domains | % { Get-ADDomainController -Discover -DomainName  $_ } | % { Get-ADDomainController -server $_.Name -filter * } | Select Name, Domain, Forest, IPv4Address, Site | ft
+(Get-ADForest).Domains | % { Get-ADDomainController -Discover -DomainName  $_ } | % { Get-ADDomainController -server $_.Name -filter * } | Select Name, Domain, Forest, IPv4Address, Site | ft
 ```

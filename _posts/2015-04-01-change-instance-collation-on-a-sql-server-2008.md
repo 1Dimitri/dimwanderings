@@ -37,7 +37,7 @@ Given some bugs seen on Connect, better access the SQL distribution files from a
 Then issue the following command:
 
 ```
-<pre class="lang:batch decode:true" title="Instance Collation Change">setup /quiet /action=REBUILDDATABASE /INSTANCENAME=NameOfInstanceWithoutNetworkResourceName /SQLSYSADMINACCOUNTS=Domain\Group /SQLCOLLATION=CollationName
+setup /quiet /action=REBUILDDATABASE /INSTANCENAME=NameOfInstanceWithoutNetworkResourceName /SQLSYSADMINACCOUNTS=Domain\Group /SQLCOLLATION=CollationName
 ```
 
 Frequent requested CollationName are: Latin1\_General\_bin, Latin1\_General\_CI\_AS or SQL\_Latin1\_General\_CP1\_CI\_AS  

@@ -24,7 +24,7 @@ tags:
 Continuing the series of Powershell snippets, here’s how to apply a xslt file to a xml file:
 
 ```
-<pre class="lang:ps decode:true">$xslt = New-Object System.Xml.Xsl.XslCompiledTransform
+$xslt = New-Object System.Xml.Xsl.XslCompiledTransform
 $xslt.Load("MyTransform.xsl")
 $xslt.Transform("MyXMLFile.xml","MyOutput.WhatEver")
 ```

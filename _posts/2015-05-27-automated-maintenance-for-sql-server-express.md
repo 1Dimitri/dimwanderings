@@ -25,7 +25,7 @@ tags:
 One of the drawbacks of using Express Editions of SQL Server is the lack of working SQL Agent Jobs. In particular when you are using [Ola Hallengren’s excellent maintenance solution](https://ola.hallengren.com/) for backups and other maintenance tasks. [His FAQ](https://ola.hallengren.com/frequently-asked-questions.html) just suggests that you use sqlcmd to execute the stored procedures, but doesn’t give much details. It can be handy to use powershell scripts to embed that call to sqlcmd and perform additional work based on the result code.
 
 ```
-<pre class="lang:ps decode:true " title="Powershell to launch backup using Ola's Hallegren solution">$SmtpServer = 'mysmtp@domain.fqdn' #or use $PSEmailServer directly
+$SmtpServer = 'mysmtp@domain.fqdn' #or use $PSEmailServer directly
 $Sender = "sqlserver@domain.fqdn"
 $Recipients = @("operators@domain.fqdn")
 # Path for SQL Server 2008 (R2)
