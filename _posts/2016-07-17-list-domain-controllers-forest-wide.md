@@ -26,7 +26,7 @@ In a [previous post, ](http://dimitri.janczak.net/2014/11/21/getting-all-domain-
 We first get the RootDSE object, from which we extract the name of the forest.
 
 ```
-<pre class="lang:ps decode:true" title="List Domain Controllers Forest-wide">try {
+try {
 $RootDSE=([ADSI]"LDAP://RootDSE")
 $ForestRootDomain=$RootDSE.rootDomainNamingContext        
 $ldapQuery = "(&(objectClass=nTDSDSA))"

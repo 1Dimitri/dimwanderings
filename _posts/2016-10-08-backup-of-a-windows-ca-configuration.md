@@ -37,7 +37,7 @@ Most commands here are self explanatory:
 Please note that when restoring, you have to stop the certsvc service and start it again when the modifications are done.
 
 ```
-<pre class="lang:ps decode:true " title="Backup of CA Configuration using certutil">Function Backup-CAConfig {
+Function Backup-CAConfig {
 param (
 [Parameter(Mandatory=$true)]
 [string] BackupPath

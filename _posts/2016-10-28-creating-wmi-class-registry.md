@@ -50,7 +50,7 @@ The only problem is that every WMI class instance must have a unique identifier.
 The following template uses the [eps engine](https://github.com/straightdave/eps) which brings Razor equivalent templating capabilities to Powershell:
 
 ```
-<pre class="lang:c# decode:true" title="WMI Class creation from MOF File ">// create WMI Class that maps a registry key
+// create WMI Class that maps a registry key
 // DJ - 1.0 - 18.10.2016
 //==================================================================
 // 1. Register Registry property provider (shipped with WMI)
@@ -134,7 +134,7 @@ instance of <%= $Classname%>
 You can then use the above file saved as ‘WMItemplate.txt’ in a command like:
 
 ```
-<pre class="lang:ps decode:true">$moftext = Expand-Template -file 'WMITemplate.txt' -safe -binding @{Key='HKLM:\Software\MySoftware',@keyexpanded='HKEY_LOCAL_MACHINE\\Software\\MySoftware,@classname='MyCompany_MySoftware'}
+$moftext = Expand-Template -file 'WMITemplate.txt' -safe -binding @{Key='HKLM:\Software\MySoftware',@keyexpanded='HKEY_LOCAL_MACHINE\\Software\\MySoftware,@classname='MyCompany_MySoftware'}
 $moftext | Set-Content 'mycompany_mysoftware.mof' -force
 mofcomp -autorecover -f mycompany_mysoftware.mof
 ```

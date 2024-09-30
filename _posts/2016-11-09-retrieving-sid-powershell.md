@@ -24,7 +24,7 @@ Retrieving a SID can be usually done with [psgetsid](https://technet.microsoft.c
 Here’s a quick snippet to help get you the Secure Identifier (SID) of a local or domain Windows Account within Powershell
 
 ```
-<pre class="lang:ps decode:true " title="Getting a SID">$u = New-Object System.Security.Principal.NTAccount('username')
+$u = New-Object System.Security.Principal.NTAccount('username')
 $SID = $u.Translate([System.Security.Principal.SecurityIdentifier])
 $SID.Value
 

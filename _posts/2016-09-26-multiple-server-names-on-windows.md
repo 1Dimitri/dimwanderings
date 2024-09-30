@@ -39,7 +39,7 @@ For this to happen, you must:
 The following script will do that for you in an easy way:
 
 ```
-<pre class="lang:batch decode:true " title="Adding multiple FQDN names to a server">@echo off
+@echo off
 if "%1"=="" goto :us
 set p=%*
 set p0=%p: =\0%
@@ -61,7 +61,7 @@ echo makes this computer responds to name1, .. nameN as DNS name in addition to 
 These steps can be done using the following script:
 
 ```
-<pre class="lang:batch decode:true" title="Adding multiple NetBios names to a server">@echo off
+@echo off
 if "%1"=="" goto :us
 set p=%*
 set p0=%p: =\0%
@@ -78,7 +78,7 @@ echo makes this computer responds to \\name1, \\nameN as NetBIOS in addition to 
 Please note that on the latest versions of Windows, you can use netdom
 
 ```
-<pre class="lang:batch decode:true " title="netdom computername example">netdom computername myserver /add myothername.mydomain.local
+netdom computername myserver /add myothername.mydomain.local
 ```
 
 The ‘myserver’ is the main short name. Every alternate name should be entered using a FQDN; THe command will create the above mentioned registry keys in both locations, add the DNS record and even the Kerberos Service Principal Name (SPN) if enough rights are given.

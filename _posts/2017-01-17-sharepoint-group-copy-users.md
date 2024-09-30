@@ -30,7 +30,7 @@ If you have more thtan a couple of users, it can become quickly very boring.
 The following snippet from the ‘lazy admin’ collection just does that: take a sharepoint group copy users to another group.
 
 ```
-<pre class="lang:ps decode:true " title="Sharepoint group copy users to another group"># Add-PSSnapin Microsoft.SharePoint.PowerShell 
+# Add-PSSnapin Microsoft.SharePoint.PowerShell 
 <#
 .SYNOPSIS 
 Copy sharepoint users between groups

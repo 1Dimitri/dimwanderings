@@ -38,7 +38,7 @@ It is worthwhile to note that if a database isn’t replicated using an Availabi
 Here’s our first attempt:
 
 ```
-<pre class="lang:tsql decode:true" title="Tells if a database is local or part of any availability group">select  sd.name, 
+select  sd.name, 
 (
 case 
  when
@@ -54,7 +54,7 @@ case
 Let’s add the group name:
 
 ```
-<pre class="lang:tsql decode:true " title="GEt database AG group if any">select sd.name, 
+select sd.name, 
 (
 case 
  when
@@ -74,7 +74,7 @@ The last part is to get to know how sys.dm\_hadr\_database\_replica\_states work
 Here’s the final code:
 
 ```
-<pre class="lang:tsql decode:true" title="Tells if a database is local or part of any availability group">-- Get for a each database a row with:
+-- Get for a each database a row with:
 -- name, AGType, AGName
 -- name: name of the database
 -- AGType: NOT REPLICATED/PRIMARY/SECONDARY

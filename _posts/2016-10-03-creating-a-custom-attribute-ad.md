@@ -52,7 +52,7 @@ Once you have gathered you can start to write a file. In our scenario, we will c
 - adminDescription is just a short help text
 
 ```
-<pre class="lang:default decode:true" title="Creating a string CostCenter Attribute">dn: CN=costCenter,cn=schema,cn=configuration,dc=X
+dn: CN=costCenter,cn=schema,cn=configuration,dc=X
 changetype: ntdsSchemaAdd
 objectClass: top
 objectClass: attributeSchema
@@ -80,7 +80,7 @@ The tool we’ll use is ldifde you may have used to dump existing data in the pa
 As you may have seen in the previous snippet, nowhere we do specify the name of the forest we operate on. We will use the macro substitution feature of ldifde to replace the DC=X by the name of the forest.
 
 ```
-<pre class="lang:default decode:true" title="Running the LDIFDE command to add an attribute">ldifde -i -f costcenter.ldf -c "cn=schema,cn=configuration,dc=X" "#schemaNamingContext"
+ldifde -i -f costcenter.ldf -c "cn=schema,cn=configuration,dc=X" "#schemaNamingContext"
 ```
 
 # Updating the schema with ldifde
@@ -88,7 +88,7 @@ As you may have seen in the previous snippet, nowhere we do specify the name of 
 Once the attribute is added, we may force the schema update forest-wide. For this, we will use ldifde again with a pseudo LDAP operation:
 
 ```
-<pre class="lang:default decode:true " title="ldifde schema update script">dn: 
+dn: 
 changetype: modify
 add: schemaUpdateNow
 schemaUpdateNow: 1
@@ -98,7 +98,7 @@ schemaUpdateNow: 1
 Save this file as schemaupdate.ldf and run
 
 ```
-<pre class="lang:default decode:true " title="Command to update schema with ldifde">ldifde -i -f schemaupdate.ldf
+ldifde -i -f schemaupdate.ldf
 ```
 
 # Possible Errors
@@ -110,7 +110,7 @@ If you obtain the error 0x202b with ldifde, it means that you didn’t run the c
 Once the attribute exists in the Active Directory, we will add it as an optional attribute of the user object. For this we will still use ldifde with the following file usercostcenter.ldf and command respectively.
 
 ```
-<pre class="lang:default decode:true" title="Adding the CostCenter Attribute to the class user">dn: CN=User,CN=Schema,CN=Configuration,DC=X
+dn: CN=User,CN=Schema,CN=Configuration,DC=X
 changetype: modify
 add: mayContain
 mayContain: CostCenter
@@ -118,7 +118,7 @@ mayContain: CostCenter
 ```
 
 ```
-<pre class="lang:default decode:true" title="Running the LDIFDE command to add an optional attribute to a class ">ldifde -i -f usercostcenter.ldf -c "cn=schema,cn=configuration,dc=X" "#schemaNamingContext"
+ldifde -i -f usercostcenter.ldf -c "cn=schema,cn=configuration,dc=X" "#schemaNamingContext"
 ```
 
 Do not forget to force the schema update once more.

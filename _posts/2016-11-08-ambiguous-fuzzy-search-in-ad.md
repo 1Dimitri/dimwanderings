@@ -42,7 +42,7 @@ If the switch ‘strict’ is not present,
 If the switch ‘strixt’ is present, the user name must be a unique perfect matching identity as the parameter will be used as a parameter to Get-ADUser
 
 ```
-<pre class="lang:default decode:true" title="AD ambiguous search"># AD search ambiguous
+# AD search ambiguous
 
 Function Do-ADUserSomething {
 param(
