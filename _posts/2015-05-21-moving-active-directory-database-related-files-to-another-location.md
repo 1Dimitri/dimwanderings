@@ -88,7 +88,7 @@ gi .
 ```
 
 ```
-<pre class="lang:ps decode:true" title="Get FRS path using powershell instead of ADSIedit">Import-Module ActiveDirectory
+Import-Module ActiveDirectory
 cd AD:
 cd '.\DC=domain,DC=fqdn' # CHange with your Domain
 cd '.\CN=Name of your DC'
