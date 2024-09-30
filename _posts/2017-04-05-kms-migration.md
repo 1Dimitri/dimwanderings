@@ -47,29 +47,29 @@ For Office, those Activation IDs are added whenever you install the various Offi
 # Installing KMS keys on new servers
 
 - In an elevated prompt, you may want to run: ```
-    <pre class="lang:batch decode:true" title="Installing OS">slmgr /ipk <Key>
+    slmgr /ipk <Key>
     ```
     
     If you are using a proxy to go through the Internet, do not forget to setup the WinHTTP proxy through the
     
     ```
-    <pre class="lang:batch decode:true" title="setting Windows machine wide proxy"> netsh winhttp set proxy command
+    netsh winhttp set proxy command
     ```
     
     for example. Just use the newest key you have; meaning if you have a Windows 2016 Server, it will also activate Windows 2012R2, 2012, 2008R2 and 2008 servers. In addition, server keys also activate Professional and Enterprise client OSes.  
     On Windows 2012(R2) this is equivalent to this page of the wizard:[![](https://dimitri.janczak.net/wp-content/uploads/2017/04/KMS-VAMT-Volume-Activation-Services-Wizard-Welcome-Screen.png)](https://dimitri.janczak.net/wp-content/uploads/2017/04/KMS-VAMT-Volume-Activation-Services-Wizard-Welcome-Screen.png) [![](https://dimitri.janczak.net/wp-content/uploads/2017/04/KMS-VAMT-Volume-Activation-Services-Wizard-Enter-KMS-Key-Screen.png)](https://dimitri.janczak.net/wp-content/uploads/2017/04/KMS-VAMT-Volume-Activation-Services-Wizard-Enter-KMS-Key-Screen.png)
 - Once the key is installed, you may want to activate the product: ```
-    <pre class="lang:batch decode:true" title="Activating the product">slmgr /ato
+    slmgr /ato
     ```
     
     [![](https://dimitri.janczak.net/wp-content/uploads/2017/04/KMS-VAMT-Volume-Activation-Services-Wizard-Activate-Prompt-Screen.png)](https://dimitri.janczak.net/wp-content/uploads/2017/04/KMS-VAMT-Volume-Activation-Services-Wizard-Activate-Prompt-Screen.png)
 - For every Office product, you will have to use the same command altogether with the Activation ID: ```
-    <pre class="lang:batch decode:true" title="Installing Office Product Key">slmgr /ipk <Key> ActivationID
+    slmgr /ipk <Key> ActivationID
     ```
     
     The screen would be:[![](https://dimitri.janczak.net/wp-content/uploads/2017/04/KMS-VAMT-Volume-Activation-Services-Wizard-Activate-Product-Screen.png)](https://dimitri.janczak.net/wp-content/uploads/2017/04/KMS-VAMT-Volume-Activation-Services-Wizard-Activate-Product-Screen.png)
 - Do not forget to activate each key: ```
-    <pre class="lang:batch decode:true " title="Activating an Office Product">slmgr /ato ActivationID
+    slmgr /ato ActivationID
     ```
 
 # Checking the service is operating correctly
@@ -81,23 +81,23 @@ For Office, those Activation IDs are added whenever you install the various Offi
 # Removing KMS Keys on old servers
 
 1. Start by unpublishing the SRV DNS Record so clients don’t try to connect anymore: ```
-    <pre class="lang:batch decode:true " title="Unpublishing KMS Servers">slmgr /cdns
+    slmgr /cdns
     ```
     
     [![](https://dimitri.janczak.net/wp-content/uploads/2017/04/KMS-Clear-DNS-Publish-Activated-Only.png)](https://dimitri.janczak.net/wp-content/uploads/2017/04/KMS-Clear-DNS-Publish-Activated-Only.png)
 2. Get a list of used keys for every Activation ID by using the Status line of the ```
-    <pre class="lang:batch decode:true " title="listing activation ID">slmgr /dli
+    slmgr /dli
     ```
     
     output
 3. For every activated product run a ```
-    <pre class="lang:batch decode:true" title="Uninstallation of a product">slmgr /upk <Key> ActivationID
+    slmgr /upk <Key> ActivationID
     ```
 4. Once the server is no longer hosting any KMS key, do not forget to make the server a KMS Client client again, by inputting the correct [KMS client key](https://technet.microsoft.com/en-us/library/jj612867(v=ws.11).aspx), using ```
-    <pre class="lang:batch decode:true " title="Entering KMS key">slmgr /ipk
+    slmgr /ipk
     ```
 5. and re-activate the server by running ```
-    <pre class="lang:batch decode:true " title="Activating a KMS host">slmgr /ato
+    slmgr /ato
     ```
     
     again

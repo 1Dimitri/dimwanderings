@@ -41,7 +41,7 @@ Under Windows 2008R2, the access is not enabled by default. You may use winrm qu
 With WinRM comes the less-known winrs command, you can use with:
 
 ```
-<pre class="lang:batch decode:true " title="WinRS example">winrs -r:target netsh.exe winhttp show proxy
+winrs -r:target netsh.exe winhttp show proxy
 ```
 
 The advantage is that you get the command’s output back
@@ -66,7 +66,7 @@ In a blog’s article about [lateral movement techniques](https://enigma0x3.net/
 Amongst all those objects is the MMC20.Application object which interestingly has a ExecuteShellCommand taking two parameters, path of the executable and argument list. Therefore a typical piece of code would be:
 
 ```
-<pre class="theme:powershell lang:default decode:true " title="MMC20 ExecuteShellCommand Example">$comobj = [Activator]::CreateInstance([Type]::GetTypeFromProgID('MMC20.Application','target'))
+$comobj = [Activator]::CreateInstance([Type]::GetTypeFromProgID('MMC20.Application','target'))
 $comobj.Document.ActiveView.ExecuteShellCommand("C:\windows\system32\netsh.exe",$null," winhttp reset proxy","7")
 ```
 
