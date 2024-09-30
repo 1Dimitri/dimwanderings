@@ -42,7 +42,7 @@ Therefore we start to think about a optimized way of doing things:
 Here is the script:
 
 ```
-<pre class="lang:ps decode:true ">$DCs = (Get-ADDomainController -Filter '*').HostName
+$DCs = (Get-ADDomainController -Filter '*').HostName
 $NearestDC= (Get-ADDomainController -Discover -NextClosestSite).HostName | Select -First 1
 Write-Host "Getting users from nearest DC $nearestDC"
 Measure-Command {
