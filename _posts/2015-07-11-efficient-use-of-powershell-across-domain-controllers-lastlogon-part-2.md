@@ -39,7 +39,7 @@ Some research on the Internet may help you to find [this kind of thread](http://
 Then we may rewrite our loop to gather all the information and then do computation:
 
 ```
-<pre class="lang:ps decode:true" title="Powershell Get-ADUser across Domain Controllers, second attempt">$DCs = Get-ADDomainController -Filter '*'
+$DCs = Get-ADDomainController -Filter '*'
 $r = New-Object Hashtable ($DCs.Count)
 
 Write-Host 'Getting All Users LastLogon for each DC'
