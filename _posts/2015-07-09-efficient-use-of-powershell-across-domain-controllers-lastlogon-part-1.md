@@ -38,7 +38,7 @@ As mentioned in that article, if you need more accurate data, one way is to pars
 As you are as lazy as I am, let’s start by doing a simple loop to collect the information one user at a time on each DC, like any newbie in Powershell would easily do. If you need a solution, you can find such an implementation [at this page.](https://www.interworks.com/blog/trhymer/2014/01/22/powershell-get-last-logon-all-users-across-all-domain-controllers)
 
 ```
-<pre class="lang:ps decode:true  " title="Powershell simple LastLogon collection attempt">function Get-LastLogon()
+function Get-LastLogon()
 {
   $dcs = Get-ADDomainController -Filter "*"
   $users = Get-ADUser -Filter *
