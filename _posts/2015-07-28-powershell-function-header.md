@@ -32,7 +32,7 @@ The function (advanced) has every syntax you can put in the comments and as deco
 Here is by the way a slightly modified version of the function header so every parameter has all the decorations you can then just erase from to get down to what you want:
 
 ```
-<pre class="lang:ps decode:true" title="Powershell ISE-like Function header snippet"><#
+<#
 .Synopsis
    Short description
 .DESCRIPTION

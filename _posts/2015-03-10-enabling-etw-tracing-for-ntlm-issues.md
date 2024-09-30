@@ -28,7 +28,7 @@ ETW (Event Tracing for WIndows) is said to be powerful by Microsoft, but the set
 Here is a script to start recording NTLM authentication traces on a Domain Controller, in the existing directory of your choice
 
 ```
-<pre class="lang:batch decode:true  " title="Enabling ETW tracing on Domain Controller for NTLM Authentication">@echo off
+@echo off
 if "%1"=="" goto :usage
 if not exist %1 goto :usage
 ECHO These commands will enable tracing:

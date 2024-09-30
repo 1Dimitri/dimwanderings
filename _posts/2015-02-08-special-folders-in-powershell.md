@@ -32,7 +32,7 @@ You may want to build a hash table to retrieve them all and optionally add a dri
 So here we go:
 
 ```
-<pre class="lang:default decode:true  " title="Retrieving special folders in Powershell">$SpecialFolders = @{}
+$SpecialFolders = @{}
 $names = [Environment+SpecialFolder]::GetNames([Environment+SpecialFolder])
 foreach($name in $names)
 {

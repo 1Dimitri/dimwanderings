@@ -33,7 +33,7 @@ Here are then a few snippets to perform the two tasks.
 First, the number of logs is set up through a registry entry. This is the official script that SQL Server management studio writes when you push the ‘script’ button on the properties window of the SQL Server Logs entry in the Management folder.
 
 ```
-<pre class="lang:tsql decode:true " title="Changing the number of SQL Server logs">USE [master]
+USE [master]
 GO
 EXEC xp_instance_regwrite N'HKEY_LOCAL_MACHINE', N'Software\Microsoft\MSSQLServer\MSSQLServer', N'NumErrorLogs', REG_DWORD, 30
 GO
@@ -46,7 +46,7 @@ And now here is a SQL Server agent job that will do a SQL Server log and SQL Ser
 The first if statement allows you to put that job in a non-standard predefined category
 
 ```
-<pre class="lang:tsql decode:true" title="SQL Agent job to recycle SQL logs at midnight ">BEGIN TRANSACTION
+BEGIN TRANSACTION
 DECLARE @ReturnCode INT
 SELECT @ReturnCode = 0
 

@@ -24,7 +24,7 @@ tags:
 Need to have a process listening on some port to test your firewall rules? Instead of using a netcat or ncat, here’s a very simple Powershell implementation of this ncat/netcat feature:
 
 ```
-<pre class="lang:ps decode:true  " title="Simple TCP Server">function Wait-OnPort ($port) {
+function Wait-OnPort ($port) {
 $endpoint = new-object System.Net.IPEndPoint ([ipaddress]::any,
 $port)
 $listener = new-object System.Net.Sockets.TcpListener $endpoint
@@ -37,7 +37,7 @@ $listener.stop()
 If you need a TCP Client, the code is very straightforward:
 
 ```
-<pre class="lang:ps mark:3-7 decode:true" title="Use of TcpClient">$t = New-Object System.Net.Sockets.TcpClient("servernameorIPAddress",port)
+$t = New-Object System.Net.Sockets.TcpClient("servernameorIPAddress",port)
 #port is not open, you get an exception
 New-Object : Exception calling ".ctor" with "2" argument(s): "No connection could be made because the target machine actively refused it 10.254.212.81:666"
 At line:1 char:16

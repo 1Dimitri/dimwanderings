@@ -51,7 +51,7 @@ This post serves more as a reference that an introduction to Powershell Jobs.
 - ScheduledJobs are primarily maintained with Register-ScheduledJob, but to work with result you must import explicitly the module and you can only see the jobs that you create/manage in your context whose results are stored in %AppData%\\Local\\Microsoft\\Windows\\Powershell\\ScheduledJobs\\&lt;JobName&gt;\\Output
 - If you run jobs inside workflows, you lose the result because they are still run in an external process to yours
 - Some snippets: ```
-    <pre class="lang:ps decode:true" title="Powershell Jobs examples"># Simple
+    # Simple
     Start-Job -ScriptBlock { ... some action ...} -Name MySupremeJob
     Get-Job -Name MySupremeJob | select PSBeginTime, PSEndTime, @{Name='Duration';Expression={$_.PSEndTime-$_.PSBeginTime}}
     # with parameter

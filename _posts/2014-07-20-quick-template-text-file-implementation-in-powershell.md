@@ -21,7 +21,7 @@ A quick way to implement this in Powershell is to use the combined power of [Her
 The basic idea is to store the template as a text file, using variables and derived expressions to act as data placeholders :
 
 ```
-<pre class="lang:default decode:true ">This is my template
+This is my template
 
 I put data from simple variable content : $name, $first
 I put data from expression to timestamp the output : $(Get-Date)

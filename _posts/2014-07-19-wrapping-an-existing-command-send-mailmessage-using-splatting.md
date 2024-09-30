@@ -33,7 +33,7 @@ Here is a simple way to add parameters to an existing command when you do not ne
 Here the example wraps the Send-MailMessage cmdlet in case the SMTP Server is not available, etc in a try/catch blog and whatever the result logs all parameters and the current timestamp into a CliXml file for future handling or retry.
 
 ```
-<pre class="lang:ps decode:true" title="Send-MailMessage wrapper and logger">Function Test-SendMailMessage
+Function Test-SendMailMessage
 {
   [CmdletBinding()]
     Param

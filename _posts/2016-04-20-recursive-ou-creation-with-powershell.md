@@ -33,7 +33,7 @@ Therefore, at the top of the drive, to enter the domain, you would type in ‘cd
 Here is an example:
 
 ```
-<pre class="theme:powershell lang:default decode:true" title="Powershell AD Drive navigation">PS C:\> cd AD:\
+PS C:\> cd AD:\
 PS AD:\> ls
 
 Name                 ObjectClass          DistinguishedName
@@ -52,7 +52,7 @@ PS AD:\DC=foobar,DC=net> mkdir 'OU=mytopOU'
 Adding nested Organizational Units can be then done as:
 
 ```
-<pre class="theme:powershell lang:default decode:true" title="Creating Nested OU in Powershell">PS AD:\DC=foobar,DC=net> cd '.\OU=mytopOU,DC=foobar,DC=net'
+PS AD:\DC=foobar,DC=net> cd '.\OU=mytopOU,DC=foobar,DC=net'
 PS AD:\OU=mytopOU,DC=foobar,DC=net> mkdir '.\OU=mysubOU'
 ...
 ```
