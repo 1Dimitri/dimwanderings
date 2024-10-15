@@ -41,7 +41,7 @@ Please be reminded that in C:\\Windows\\Debug there’s a NetSetup.log which tra
 Let’s see a somewhat advanced example where the machine starts correctly but when it reboots the domain administrators cannot log in
 
 ```
-<pre class="lang:default decode:true" title="NetSetup.log example">03/01/2017 10:22:34:797 -----------------------------------------------------------------
+03/01/2017 10:22:34:797 -----------------------------------------------------------------
 03/01/2017 10:22:34:797 NetpDoDomainJoin
 03/01/2017 10:22:34:797 NetpDoDomainJoin: using current computer names
 03/01/2017 10:22:34:797 NetpDoDomainJoin: NetpGetComputerNameEx(NetBios) returned 0x0
@@ -261,7 +261,7 @@ When it comes to ‘unable to bind’ messages you can be pretty sure that there
     - TCP/135
     - TCP/445
     - TCP/49152-65535 unless you have restricted the dynamic port range. You can check this by issuing ```
-        <pre class="lang:default decode:true" title="Checking dynamic range"> netsh ipv4 show dynamic range tcp
+         netsh ipv4 show dynamic range tcp
          netsh ipv4 show dynamic range udp
          netsh ipv6 show dynamic range tcp
          netsh ipv6 show dynamic range udp

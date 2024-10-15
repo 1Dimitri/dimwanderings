@@ -44,7 +44,7 @@ This post is aimed at listing what are the default IIS default role services so 
 Please note that you can always get the list of installed role services by using the [Get-WindowsFeature](https://msdn.microsoft.com/en-us/library/ee662312.aspx) cmdlet under Powershell. To get everything under the IIS role, you must use Web and not IIS as as keyword
 
 ```
-<pre class="lang:ps decode:true" title="Get-WindowsFeature for IIS default role services">PS C:\Windows\system32> Get-WindowsFeature  |  ? {$_.Name -like 'Web*' } | Select DisplayName, Name
+PS C:\Windows\system32> Get-WindowsFeature  |  ? {$_.Name -like 'Web*' } | Select DisplayName, Name
 
 DisplayName                                   Name
 -----------                                   ----
