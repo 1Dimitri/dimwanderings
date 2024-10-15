@@ -57,7 +57,7 @@ Similar to the startup folder, trick you may want to add a registry entry modele
 
 # AT / Scheduled Tasks
 
-With these tools (including the [schtasks.exe](https://msdn.microsoft.com/en-us/library/windows/desktop/bb736357(v=vs.85).aspx) command-line tool), you may schedule a task to run under a set of credentials in response to different triggers: it includes date/time but also responses to events written in the log. EAsy re-occuring events can be the WInHTTP proxy, …
+With these tools (including the [schtasks.exe](https://msdn.microsoft.com/en-us/library/windows/desktop/bb736357(v=vs.85).aspx) command-line tool), you may schedule a task to run under a set of credentials in response to different triggers: it includes date/time but also responses to events written in the log. Easy re-occuring events can be the WinHTTP proxy, …
 
 # MMC Application COM Object
 
