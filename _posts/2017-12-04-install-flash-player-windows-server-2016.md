@@ -34,7 +34,7 @@ When you’re dealing with some legacy software, such as the[ vSphere web client
 Fortunately, there’s no need for that. You just to have to install the proper package. Unfortunately it is not displayed as a stand-alone feature in the Server Manager wizard. You’ll have to revert to a bit a Powershell (for laziness) and dism to install package online. Here is the code:
 
 ```
-<pre class="lang:ps decode:true " title="Installing the Flash Player package on Windows Server 2016">$flash = gci (Join-Path $Env:WinDir 'Servicing\Packages')  -Filter 'Adobe-Flash-For-Windows-Package*.mum'
+$flash = gci (Join-Path $Env:WinDir 'Servicing\Packages')  -Filter 'Adobe-Flash-For-Windows-Package*.mum'
 dism /online /add-package /packagepath:$($flash.FullName)
 ```
 
@@ -47,7 +47,7 @@ In the code you may note the use of the Fullname property. Don’t forget that t
 you’d likely to get:
 
 ```
-<pre class="lang:default decode:true " title="Dism Error package not found">Deployment Image Servicing and Management tool
+Deployment Image Servicing and Management tool
 Version: 10.0.14393.0
 
 Image Version: 10.0.14393.0
@@ -63,7 +63,7 @@ An error occurred trying to open - C:\Windows\system32\Adobe-Flash-For-Windows-P
 The correct execution path is:
 
 ```
-<pre class="lang:default decode:true" title="Successful dism package execution">Version: 10.0.14393.0
+Version: 10.0.14393.0
 
 Image Version: 10.0.14393.0
 

@@ -38,7 +38,7 @@ THe KMS migration is conceptually very simple:
 
 # What’s an Activation ID ?
 
-You may be puzzled by the Activation ID appearing multiple times in the documentation of the slmgr.vbs command. Activation ID is nothing else than a Product ID. You will get one for the OS, one for Office 2010, one for Office 2013, one for Office 2016… THe only difficulty here is that the OS key is the “default” activation ID, and that newer OS keys also activate previous versions of the OS, so you don’t need multiple OS keys as opposed as to Office products. Please also note that the Office ProPlus keys also activate the Visio product.
+You may be puzzled by the Activation ID appearing multiple times in the documentation of the slmgr.vbs command. Activation ID is nothing else than a Product ID. You will get one for the OS, one for Office 2010, one for Office 2013, one for Office 2016… The only difficulty here is that the OS key is the “default” activation ID, and that newer OS keys also activate previous versions of the OS, so you don’t need multiple OS keys as opposed as to Office products. Please also note that the Office ProPlus keys also activate the Visio product.
 
 For Office, those Activation IDs are added whenever you install the various Office Key Management Host / Volume License Pack software you can find in the volume license center:
 

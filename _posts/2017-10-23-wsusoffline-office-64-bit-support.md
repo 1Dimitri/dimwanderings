@@ -34,7 +34,7 @@ In order to get the 64-bit Office patches, you must run once the ‘AddOfficex64
 [![WSUS Offline cmd subdirectory](https://dimitri.janczak.net/wp-content/uploads/2017/10/WSUSOffline-cmd-subdirectory-contents.png)](https://dimitri.janczak.net/wp-content/uploads/2017/10/WSUSOffline-cmd-subdirectory-contents.png)Such a piece of code would be:
 
 ```
-<pre class="lang:batch decode:true " title="Adding Office 64-bit support for WSUSOffline">AddOffice2010x64Support.cmd enu
+AddOffice2010x64Support.cmd enu
 ```
 
 With that operation, the lists of links will then be amended with the proper definitions and you do not need to redo this operation when you generate the new version the next version. In the same spirit, you would use RemoveOffice2010x64support.cmd to undo what you have done.

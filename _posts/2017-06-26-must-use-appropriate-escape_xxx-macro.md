@@ -35,7 +35,7 @@ You must just:
 
 1. run the code available in the KB article
 2. run the created stored procedure in msdb to update one or all the jobs ```
-    <pre class="lang:tsql decode:true" title="running the stored procedure in KB 915845">exec msdb.dbo.sp_AddEscapeNoneToJobStepTokens 'Display name of the job' -- specific job
+    exec msdb.dbo.sp_AddEscapeNoneToJobStepTokens 'Display name of the job' -- specific job
     exec msdb.dbo.sp_AddEscapeNoneToJobStepTokens -- all jobs
     ```
 

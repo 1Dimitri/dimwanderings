@@ -39,7 +39,7 @@ EXECUTE(N'EXECUTE master.dbo.xp_cmdshell N''DEL ' + @device_directory + N'MSDBLo
 This DEL statement is the source of our little useful piece of code, as Microsoft wants to put the xp\_cmdshell enable status back to its previous state after issuing that DEL statement. Microsoft creates 2 temporary helpers as stored procedures called #sp\_enable\_component and #sp\_restore\_component\_state
 
 ```
-<pre class="lang:tsql decode:true " title="Saving the configure state">CREATE PROCEDURE #sp_enable_component     
+CREATE PROCEDURE #sp_enable_component     
    @comp_name     sysname, 
    @advopt_old_value    INT OUT, 
    @comp_old_value   INT OUT 
@@ -56,7 +56,7 @@ go
 ```
 
 ```
-<pre class="lang:tsql decode:true " title="Restoring the configure state">CREATE PROCEDURE #sp_restore_component_state 
+CREATE PROCEDURE #sp_restore_component_state 
    @comp_name     sysname, 
    @advopt_old_value    INT, 
    @comp_old_value   INT 

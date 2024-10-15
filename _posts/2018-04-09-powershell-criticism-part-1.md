@@ -45,7 +45,7 @@ But that’s not the first surprise you will encounter. Naively you tell yoursel
 Familiar with similar but not equivalent net related commands, you try to use a star as a password. Doesn’t work either. You’ll get the same error. Since criticism without enhancement proposal would be useless, here is a modified version of New-SmbMapping which proxies the current existing version.
 
 ```
-<pre class="lang:ps decode:true" title="New-SmbMapping Credential version">unction New-SmbMappingEx {
+function New-SmbMappingEx {
 [CmdletBinding(SupportsShouldProcess=$true, ConfirmImpact='Medium', PositionalBinding=$false, HelpUri='http://go.microsoft.com/fwlink/?LinkID=241956')]
 param(
     [Parameter(ParameterSetName='Create0', Position=1)]

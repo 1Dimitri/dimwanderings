@@ -41,7 +41,7 @@ Let’s review the arguments you will need
 Our command will then be:
 
 ```
-<pre class="lang:ps decode:true" title="Get-Certificate for Web Server">Get-Certificate -URL "ldap:///CN=My Company SubCA I" `
+Get-Certificate -URL "ldap:///CN=My Company SubCA I" `
 -SubjectName "wsus.mycompany.com" `
 -DnsName wsus.mycompany.com,wsus01.company.com `
 -Template WebServerCertificate10 `

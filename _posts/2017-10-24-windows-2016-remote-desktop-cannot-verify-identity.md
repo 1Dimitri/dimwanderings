@@ -47,14 +47,14 @@ If you face this issue, the no-reboot solution is then:
 
 1. Connect to the machine using a PSSession
 2. Execute the following code to isolate the provider in its own process: ```
-    <pre class="lang:default decode:true" title="Giving the PolicMan Provider its own WMIPRVSE process">$a = [WMI]'root\policy:__Win32Provider.name="PolicSOM"'
+    $a = [WMI]'root\policy:__Win32Provider.name="PolicSOM"'
     $a.HostingModel = "NetworkServiceHost:Debug1"
     $a.put()
     ```
 3. Restart the WinMgmt service (Restart-Service WinMgmt -Force will do the trick as there are dependencies)
 4. No need to reboot to re-issue a RDP connection
 5. If you want to revert back to test the behavior, issue the following snippet: ```
-    <pre class="lang:default decode:true" title="Revert Policy Manager process to NetworkService host thing">$a = [WMI]'root\policy:__Win32Provider.name="PolicSOM"'
+    $a = [WMI]'root\policy:__Win32Provider.name="PolicSOM"'
     $a.HostingModel = "NetworkServiceHost"
     $a.put()
     ```

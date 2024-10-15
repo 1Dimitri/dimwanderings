@@ -39,7 +39,7 @@ The resetbase can be quite interesting, On a 3+ years old Windows 2012R2 the lac
 To get a report view before doing anything damageable, you can run:
 
 ```
-<pre class="lang:batch decode:true " title="Reporting  Space used by WInSxS folder">dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
+dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ```
 
 The command has been succesfully tested on Windows 2012R2 and Windows Server 2016.

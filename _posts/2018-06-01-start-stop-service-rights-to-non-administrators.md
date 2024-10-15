@@ -40,7 +40,7 @@ Name = wuauserv
 or in Powershell
 
 ```
-<pre class="lang:ps decode:true" title="Powershell long short service names ">Get-Service | ? { $_.DisplayName -eq 'Windows Update'}
+Get-Service | ? { $_.DisplayName -eq 'Windows Update'}
 
 Status Name DisplayName
 ------ ---- -----------

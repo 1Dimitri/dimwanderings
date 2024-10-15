@@ -22,7 +22,7 @@ tags:
     - 'Windows Update'
 ---
 
-AS you may be aware, MIcrosoft never published a SP2 for WIndows 2008R2 and WIndows 7. There was the [enterprise rollup](https://blogs.technet.microsoft.com/sbs/2013/03/20/enterprise-hotfix-rollup-for-windows-7-sp1-and-windows-server-2008-r2-sp1-available-now/) and now there is a [convenience rollup](https://support.microsoft.com/en-us/help/3125574/convenience-rollup-update-for-windows-7-sp1-and-windows-server-2008-r2).
+As you may be aware, MIcrosoft never published a SP2 for WIndows 2008R2 and WIndows 7. There was the [enterprise rollup](https://blogs.technet.microsoft.com/sbs/2013/03/20/enterprise-hotfix-rollup-for-windows-7-sp1-and-windows-server-2008-r2-sp1-available-now/) and now there is a [convenience rollup](https://support.microsoft.com/en-us/help/3125574/convenience-rollup-update-for-windows-7-sp1-and-windows-server-2008-r2).
 
 [The enterprise rollup](https://support.microsoft.com/en-us/help/2775511/an-enterprise-hotfix-rollup-is-available-for-windows-7-sp1-and-windows) had 90+ hotfixes, whereas the [convenience rollup](https://support.microsoft.com/en-us/help/3125574/convenience-rollup-update-for-windows-7-sp1-and-windows-server-2008-r2) is replacing 120+ updates, so even the marketing guys at Microsoft don’t call it a rollup, it has the taste of it.
 

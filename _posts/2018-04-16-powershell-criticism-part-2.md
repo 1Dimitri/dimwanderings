@@ -35,7 +35,7 @@ As a language used by system administrators, you’ll use Powershell in two form
 In the second scenario, nesting loops over collections can be less than efficient. Everybody has wondered what $\_ meant when the first ForEach-Object construction has been encountered. The traditional example would be
 
 ```
-<pre class="lang:ps decode:true" title="ForEach-Object">Get-Process | % { $_.Name }
+Get-Process | % { $_.Name }
 ```
 
 As mentioned in the [ForEach-Object](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/foreach-object?view=powershell-6) page, the $\_ was often verbose when extracting a property, therefore this ScriptBlock construct was given an Operation alternate form in Powershell 3.0. At the same time, the name $PSItem was introduced as $\_ seemed a bit magical. A good summary of all these[ Powershell 3.0 Foreach-Object enhancements](https://blogs.msdn.microsoft.com/mvpawardprogram/2013/04/15/working-with-the-new-psitem-automatic-variable-in-windows-powershell-3-0/) are summarized in that post.
@@ -45,13 +45,13 @@ However, when you are writing onelines, you often use multiple piped cmdlets and
 Let’s take the services and try to build easily the list of services depended on. IN a construction like below, the $\_ cannot refer to the initial service object unless you assign it in a named variable:
 
 ```
-<pre class="lang:ps decode:true " title="Enumerator within enumator variable access problem">Get-SErvice | % { $_.ServicesDependedOn | % { $_.Name }  }
+Get-Service | % { $_.ServicesDependedOn | % { $_.Name }  }
 ```
 
 You must add an intermediate variable
 
 ```
-<pre class="lang:ps decode:true" title="Nested collection enumeration">Get-Service | % { $Svc = $_ ; $_.ServicesDependedOn | % { "For Service = $($svc.Name) -> $($_.Name)" } }
+Get-Service | % { $Svc = $_ ; $_.ServicesDependedOn | % { "For Service = $($svc.Name) -> $($_.Name)" } }
 #or
 foreach ($svc in Get-Service) {  $svc.ServicesDependedOn | % { "For Service = $($svc.Name) -> $($_.Name)" } }
 ```

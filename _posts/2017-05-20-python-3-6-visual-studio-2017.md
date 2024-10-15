@@ -30,7 +30,7 @@ Let’s try to compile scrapy which has a lot of dependencies including the twis
 Let’s assume you have installed “Visual Studio 2017 Community” on your PC with the C++ support. Trying to run the well-known
 
 ```
-<pre class="lang:default decode:true " title="scrapy install command">pip install scrapy
+pip install scrapy
 ```
 
 will end-up with a compile error, such as the following:
@@ -73,7 +73,7 @@ The last trick is to use the proper environment to run command-line installation
 Do not choose ‘Developer’ although it may sound appealing. You’ll get caught with LNK2010 linking errors because of INCLUDE issues, in the same way that a regular cmd would output the following error:
 
 ```
-<pre class="lang:default decode:true" title="Error when compiling with regular cmd">    C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX64\x64\cl.exe /c /nologo /Ox /W3 /GL /DNDEBUG /MD -DWIN32=1
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX64\x64\cl.exe /c /nologo /Ox /W3 /GL /DNDEBUG /MD -DWIN32=1
 "-Ic:\program files\python36\include" "-Ic:\program files\python36\include" "-IC:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.1
 0.25017\Include" "-IC:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\ATLMFC\Include" "-IC:\Program Files (x86)\Windows Ki
 ts\10\include\10.0.15063.0\ucrt" "-IC:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um" /Tcsrc/twisted/test/raiser.c /Fobuild\temp.win-amd64-3.6\Rele

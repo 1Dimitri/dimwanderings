@@ -35,7 +35,7 @@ As outlined in the [Vista International Settings Guide](https://msdn.microsoft.c
 There are plenty of options, so here is an example which allows to change the locale to English (United Kingdom) for all users (system and new users)
 
 ```
-<pre class="lang:xhtml decode:true " title="Changing user locale to ENglish UK for All users"><gs:GlobalizationServices xmlns:gs="urn:longhornGlobalizationUnattend">
+<gs:GlobalizationServices xmlns:gs="urn:longhornGlobalizationUnattend">
  <gs:UserList>
  <gs:User UserID="Current" CopySettingsToDefaultUserAcct="true" CopySettingsToSystemAcct="true"/>
  </gs:UserList>

@@ -34,7 +34,7 @@ The –add can then be used to specify the components you want to store locally 
 To compile C++ programs without too much hassle, as written down in the [Visual C++ and build tools presentation article](https://blogs.msdn.microsoft.com/vcblog/2016/11/16/introducing-the-visual-studio-build-tools/), you should use Microsoft.VisualStudio.Workload.VCTools keyword to install those tools.
 
 ```
-<pre class="lang:batch decode:true " title="Offline creation of Visual C++ Build Tools">rem Target Directory = C:\VSBuildTools17
+rem Target Directory = C:\VSBuildTools17
 rem English only
 rem Include all recommended and optional tools
 vs_buildtools.exe --layout C:\VSBuildTools17 --add Microsoft.VisualStudio.Workload.VCTools --includeRecommended --includeOptional --lang en-US

@@ -42,7 +42,7 @@ To have some boiler plate examples of the ADFS language, you can always select t
 [![](https://dimitri.janczak.net/wp-content/uploads/2017/05/ADFS-Windows-Account-Name-Rule-Properties.png)](https://dimitri.janczak.net/wp-content/uploads/2017/05/ADFS-Windows-Account-Name-Rule-Properties.png)In this case, we can such that such a rule is equivalent to a custom rule whose contents would be:
 
 ```
-<pre class="lang:default decode:true" title="Windows Account Name claim">c:[Type == "http://schemas.microsoft.com/ws/2008/06/identity/claims/windowsaccountname"]
+c:[Type == "http://schemas.microsoft.com/ws/2008/06/identity/claims/windowsaccountname"]
  => issue(claim = c);
 ```
 
@@ -61,7 +61,7 @@ In our example to filter the group membership, we will:
 The first rule is then written
 
 ```
-<pre class="lang:default decode:true" title="5.1 Get Group Membership from LDAP Claims without domain name">c:[Type == "http://schemas.microsoft.com/ws/2008/06/identity/claims/windowsaccountname", Issuer == "AD AUTHORITY"]
+c:[Type == "http://schemas.microsoft.com/ws/2008/06/identity/claims/windowsaccountname", Issuer == "AD AUTHORITY"]
 => add(store = "Active Directory", types = ("http://schemas.xmlsoap.org/claims/Group"), query = ";memberOf;{0}", param = c.Value);
 ```
 

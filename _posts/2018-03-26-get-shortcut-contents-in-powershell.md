@@ -27,7 +27,7 @@ tags:
 Some applications create a lot of shortcuts and sometimes you wonder what differences between them are. Or they are created at a locatoin you don’t find practical and want to create them elsewhere. You could click on each shortcut and copy paste the information but so let’s see how to get shortcut contents in Powershell so we can automate that.
 
 ```
-<pre class="lang:default decode:true" title=".lnk Shortcut manipulation in Powershell">$sh = New-Object -ComObject WScript.Shell
+$sh = New-Object -ComObject WScript.Shell
 $sm = [Environment]::GetFolderPath('CommonPrograms')
 $link = (gci $sm -File -rec)[0]
 $lnk = $sh.CreateShortcut($link.FullName)

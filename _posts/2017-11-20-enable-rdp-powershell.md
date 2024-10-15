@@ -29,7 +29,7 @@ Although the Remote Management is enabled by default starting with Windows Serve
 Here’s the code:
 
 ```
-<pre class="lang:ps decode:true" title="Enable Remote Desktop with Powershell"># 1. Enable Remote Desktop
+# 1. Enable Remote Desktop
 (Get-WmiObject Win32_TerminalServiceSetting -Namespace root\cimv2\TerminalServices).SetAllowTsConnections(1,1) 
 (Get-WmiObject -Class "Win32_TSGeneralSetting" -Namespace root\cimv2\TerminalServices -Filter "TerminalName='RDP-tcp'").SetUserAuthenticationRequired(0) 
 
